@@ -1,9 +1,13 @@
 # Healthcare Analytics – Health Alliance  
 
-## Aperçu  
+
 <img width="1200" height="800" alt="Copia de Copia de Copia de DB (5)" src="https://github.com/user-attachments/assets/87537a0d-cb15-4285-bb5b-2dccf98c5dc4" />
 
+
+
 <img width="1397" height="788" alt="Capture d&#39;écran 2026-04-17 132439" src="https://github.com/user-attachments/assets/f75263a6-b75f-47ea-b700-5ed8747dd24f" />
+
+
 
 <img width="1396" height="783" alt="Capture d&#39;écran 2026-04-17 132425" src="https://github.com/user-attachments/assets/db2b6b6b-990d-42e1-9efa-13d278c0dfe1" />
 
